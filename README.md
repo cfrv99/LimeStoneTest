@@ -1,0 +1,3 @@
+In your XML doc there are have so many complex objects. It will take a so many times for mapping and validation. In our country have CurrencyRate API. I used it but your requirements is the same for my solution. Also 
+you can see there more functionality I used signalR which change ui in real time also I used JQUery for UI side. I think you will like it. And I used there WorkerRole which it will work on 
+Azure as windows service. I wanted to show my experoecnce I have so many experinece .NEt tech stacks. And I think you are interested in how can I will write my optimization code and styles. Thanks for time :)
