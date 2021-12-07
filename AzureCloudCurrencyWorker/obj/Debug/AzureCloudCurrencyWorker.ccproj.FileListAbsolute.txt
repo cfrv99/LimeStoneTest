@@ -1,0 +1,2 @@
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\AzureCloudCurrencyWorker\bin\Debug\ServiceConfiguration.cscfg
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\AzureCloudCurrencyWorker\bin\Debug\ServiceDefinition.csdef

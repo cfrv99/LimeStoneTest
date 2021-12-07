@@ -1,0 +1,9 @@
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\DAL.dll.config
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\DAL.dll
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\DAL.pdb
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\EntityFramework.dll
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\EntityFramework.xml
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\obj\Debug\DAL.dll
+c:\users\bkasmer\documents\visual studio 14\Projects\CurrencyRates\DAL\obj\Debug\DAL.pdb
